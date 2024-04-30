@@ -23,7 +23,7 @@ main {
 form {
     margin-top: 30px;
     padding: 50px;
-    background-color: chocolate;
+    background-color: aqua;
     border-radius: 3%;
     box-shadow: 10px 10px 5px white;
     width: 80%;
@@ -51,8 +51,9 @@ p {
 
 button {
     background-color: aqua;
-    border: none;
+    border: 2px solid aquamarine;
     padding: 2px;
+
 }
 
 button:hover {
